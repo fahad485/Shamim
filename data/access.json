@@ -1,3 +1,7 @@
 {
-  "passwordHash": ""
+  "passwordHash": "c17b7a918f0543c62b6e9b5321cf240ea86a3b01cbc373b273eca2159c5ba1de",
+  "salt": "90f357861db6fa133be8c91dfae5a400",
+  "kdf": "PBKDF2",
+  "iterations": 150000,
+  "version": 4
 }
